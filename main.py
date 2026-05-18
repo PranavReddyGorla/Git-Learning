@@ -5,4 +5,5 @@ if __name__ == "__main__":
     name = input("Enter your name: ")
     message = greet(name)
     print(message)
+    print("Hello, everyone!")
     print("This is the main function of the program.")
